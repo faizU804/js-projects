@@ -1,0 +1,1 @@
+console.log("its my first code in github . and know i will write my all code here after today");
